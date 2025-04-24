@@ -1,0 +1,22 @@
+package galibm;
+
+public class Galibm {
+
+    public static void main(String[] args) {
+       boolean b;
+       char c;
+       short s=32677;//dynamic initialization
+       int i=23;
+       float f=2.5f;
+       double d;
+       b= true;
+       System.out.println("b ="+b);
+       c='a';
+        System.out.println("c ="+c);
+    
+       System.out.println("s ="+s);    
+       System.out.println("i ="+i);    
+       System.out.println("f ="+f);    
+          
+    }
+}
