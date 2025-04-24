@@ -1,0 +1,22 @@
+package galibm;
+
+public class Galibm {
+
+    public static void main(String[] args) {
+       boolean b;
+       char c='a';
+       short s=32677;//dynamic initialization
+       int i=23;
+       float f=2.5f;
+       double d=2.562254;
+       b= true;
+       System.out.printf("boolean b =%b",b);
+       System.out.printf("charecter c =%c",b);
+       System.out.printf("Short s =%d",s);
+       System.out.printf("integer i =%d",i);
+       System.out.printf("float f =%.2f",f);
+       System.out.printf("double d =%f",d);
+    
+        
+    }
+}
